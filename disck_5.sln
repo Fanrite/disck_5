@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "disck_5", "disck_5\disck_5.csproj", "{A2E89389-E953-48D7-898C-58EBBACADBA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2E89389-E953-48D7-898C-58EBBACADBA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E89389-E953-48D7-898C-58EBBACADBA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E89389-E953-48D7-898C-58EBBACADBA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E89389-E953-48D7-898C-58EBBACADBA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBD9049B-FB87-48D8-8F05-553E237323DA}
+	EndGlobalSection
+EndGlobal
